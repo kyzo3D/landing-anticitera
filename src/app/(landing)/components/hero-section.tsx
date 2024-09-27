@@ -34,13 +34,13 @@ export default function HeroSection() {
         and virtual environments.
       </p>
       <Link
-        href='https://assistant.anticitera.app/auth'
+        href='https://qk7dv3gm785.typeform.com/to/dTYySvlt'
         className={buttonVariants({
           className:
             '-translate-y-4 animate-fade-in gap-1 opacity-0 ease-in-out [--animation-delay:600ms]'
         })}
       >
-        <span>Get Started for free</span>
+        <span>Join waitlist</span>
         <ArrowRightIcon className='ml-1 size-4 transition-transform duration-300 ease-in-out group-hover:translate-x-1' />
       </Link>
       <div
