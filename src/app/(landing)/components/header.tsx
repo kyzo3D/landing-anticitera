@@ -112,8 +112,8 @@ const Header = () => {
           </Link>
 
           <div className='w-20 ml-auto flex h-full items-center'>
-            <Link className='w-full text-sm' href='https://assistant.anticitera.app/auth'>
-              Log in
+            <Link className='w-full text-sm' href='https://qk7dv3gm785.typeform.com/to/dTYySvlt'>
+              Join waitlist
             </Link>
           </div>
           <button
@@ -140,7 +140,7 @@ const Header = () => {
         >
           <div className='container flex h-14 items-center justify-between'>
             <Link className='text-md flex items-center' href='/'>
-              Nyxb UI
+              Anticitera
             </Link>
 
             <button
