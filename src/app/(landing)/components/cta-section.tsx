@@ -178,7 +178,7 @@ const CallToActionSection = () => {
                   required.
                 </p>
                 <Link
-                  href='https://assistant.anticitera.app/auth'
+                  href='https://qk7dv3gm785.typeform.com/to/dTYySvlt'
                   className={cn(
                     buttonVariants({
                       size: 'lg',
@@ -187,7 +187,7 @@ const CallToActionSection = () => {
                     'group mt-4 rounded-[2rem] px-6'
                   )}
                 >
-                  Get Started
+                  Join waitlist
                   <ChevronRight className='ml-1 size-4 transition-all duration-300 ease-out group-hover:translate-x-1' />
                 </Link>
               </div>
