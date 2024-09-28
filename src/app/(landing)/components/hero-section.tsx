@@ -34,7 +34,7 @@ export default function HeroSection() {
         and virtual environments.
       </p>
       <Link
-        href='https://qk7dv3gm785.typeform.com/to/dTYySvlt'
+        href='https://forms.gle/SqtgdrrBEyB87ahW9'
         className={buttonVariants({
           className:
             '-translate-y-4 animate-fade-in gap-1 opacity-0 ease-in-out [--animation-delay:600ms]'
