@@ -112,7 +112,7 @@ const Header = () => {
           </Link>
 
           <div className='w-20 ml-auto flex h-full items-center'>
-            <Link className='w-full text-sm' href='https://qk7dv3gm785.typeform.com/to/dTYySvlt'>
+            <Link className='w-full text-sm' href='https://forms.gle/SqtgdrrBEyB87ahW9'>
               Join waitlist
             </Link>
           </div>
